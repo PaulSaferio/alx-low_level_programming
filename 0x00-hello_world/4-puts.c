@@ -3,7 +3,7 @@
 
 
 int main(void)
-
+/* this is the main block */
 {
 
 puts("\"Programming is like building a multilingual puzzle");
