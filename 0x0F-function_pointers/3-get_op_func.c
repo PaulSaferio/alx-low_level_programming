@@ -15,7 +15,7 @@ op_t ops[] = {
 {"*", op_mul},
 {"/", op_div},
 {"%", op_mod},
-{NULL,NULL}
+{NULL, NULL}
 };
 int i = 0;
 while (ops[i].op)
