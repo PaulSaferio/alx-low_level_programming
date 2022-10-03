@@ -37,7 +37,7 @@ int mul(int a, int b)
  */
 extern div_t div(int __numer, int __denom)
 {
-      return (a / b);
+      return (__numer / __denom);
 }
 /**
  * mod - addition
