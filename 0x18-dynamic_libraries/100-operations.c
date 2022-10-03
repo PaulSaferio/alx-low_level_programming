@@ -35,9 +35,9 @@ int mul(int a, int b)
  * @b: nuber
  * Return: result
  */
-double div(double a, double b)
+int div(int a, int b)
 {
-      return (a / b);
+	return (a / b);
 }
 /**
  * mod - modulus
