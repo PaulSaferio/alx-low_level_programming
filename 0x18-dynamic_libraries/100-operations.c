@@ -35,9 +35,9 @@ int mul(int a, int b)
  * @b: nuber
  * Return: result
  */
-extern div_t div(int __numer, int __denom)
+int div(int a, int b)
 {
-      return (__numer / __denom);
+      return (a / b);
 }
 /**
  * mod - addition
