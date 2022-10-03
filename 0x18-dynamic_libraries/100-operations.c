@@ -35,7 +35,7 @@ int mul(int a, int b)
  * @b: nuber
  * Return: result
  */
-int div_t(int a, int b)
+div_t(int a, int b)
 {
 	return (a / b);
 }
