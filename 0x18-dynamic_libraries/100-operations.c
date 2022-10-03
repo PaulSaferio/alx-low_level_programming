@@ -10,7 +10,7 @@ int add(int a, int b)
       return (a + b);
 }
 /**
- * sub - addition
+ * sub - subtraction
  * @a: number
  * @b: nuber
  * Return: result
@@ -20,7 +20,7 @@ int sub(int a, int b)
       return (a - b);
 }
 /**
- * mul - addition
+ * mul - multiplication
  * @a: number
  * @b: nuber
  * Return: result
@@ -30,17 +30,17 @@ int mul(int a, int b)
       return (a * b);
 }
 /**
- * div - addition
+ * div - divission
  * @a: number
  * @b: nuber
  * Return: result
  */
-int div(int a, int b)
+double div(double a, double b)
 {
       return (a / b);
 }
 /**
- * mod - addition
+ * mod - modulus
  * @a: number
  * @b: nuber
  * Return: result
