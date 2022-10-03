@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * add - addition
  * @a: number
